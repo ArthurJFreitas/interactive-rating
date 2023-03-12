@@ -1,4 +1,4 @@
-import App from '../App';
+import App from '../../pages/App';
 
 describe('Name of the group', () => {
   it('should ', () => {
